@@ -21,7 +21,7 @@ p {
 }
 #details {
   background-color: red;
-  display: block;
+  display: inline-block;
   float: left;
 }
 
