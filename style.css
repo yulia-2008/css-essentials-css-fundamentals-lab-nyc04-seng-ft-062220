@@ -21,7 +21,9 @@ p {
 }
 #details {
   background-color: red;
-  display: inline;
+}
+div {
+  display: inline-block;
   float: left;
 }
 
