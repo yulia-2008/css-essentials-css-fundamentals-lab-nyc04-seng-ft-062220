@@ -19,10 +19,8 @@ p {
   margin-left: 33%;
   margin-right: 33%;
 }
-#details {
+#details div{
   background-color: red;
-}
-div {
   display: block;
   float: left;
 }
