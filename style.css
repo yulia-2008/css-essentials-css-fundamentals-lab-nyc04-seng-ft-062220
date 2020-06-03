@@ -25,8 +25,8 @@ p {
   display: block;
   float: left;
   padding-right: 10%;
-  text-align:center;
-  
-
+}
+ #details h3, #details p{
+  text-align: center;
 }
 
