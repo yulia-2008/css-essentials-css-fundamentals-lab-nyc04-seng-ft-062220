@@ -20,10 +20,10 @@ p {
   margin-right: 33%;
 }
 #detail {
-  
+  background-color: red;
 }
 #details div{
-  background-color: red;
+  
   display: block;
   float: left;
 }
