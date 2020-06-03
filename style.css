@@ -12,6 +12,6 @@ nav {
 a {
   background-color: gray;
 }
-.featured-property {
+#featured-property {
   text-align: center;
 }
