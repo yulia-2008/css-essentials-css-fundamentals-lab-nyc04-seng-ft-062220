@@ -15,4 +15,7 @@ a {
 #featured-property {
   text-align: center;
 }
-p
+p {
+  margin-left: 33%;
+  margin-right: 33%;
+}
