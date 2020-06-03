@@ -12,8 +12,9 @@ nav {
 a {
   background-color: gray;
 }
-#featured-property {
+#featured-property p {
   text-align: center;
+  width: 800px;
 }
 p {
   margin-left: 33%;
