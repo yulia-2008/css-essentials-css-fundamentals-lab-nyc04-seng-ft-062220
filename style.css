@@ -24,8 +24,7 @@ p {
   background-color: red;
   display: block;
   float: left;
-  padding-right: 6%;
-  padding-left: 6%;
+  width: 25%;
 }
 h3 {
   text-align: center;
